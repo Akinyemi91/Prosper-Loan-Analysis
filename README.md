@@ -17,6 +17,6 @@ I observed that average count of deliquencies did not change at all along income
 
 
 ## Key Insights for Presentation
-The presentation was focused on describing a journey of exploring the dataset in discover the most important variable in determining or predicting deliquency. 
+The presentation was focused on describing a journey of exploring the dataset to discover the most important variable in determining or predicting deliquency. 
 
 I started by introducing the key variables one by one and show the relationshing along univariate, bivariate and multivariate lines. This was able to state the most important factor in predicting deliquency and was in contrary to what i presumed before carrying out the analysis.
